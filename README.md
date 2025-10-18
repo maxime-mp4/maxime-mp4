@@ -1,15 +1,16 @@
-# Welcome to my GitHub profile!
+# Welcome to my GitHub profile
 
-I'm a student from France, passionate about exploring new technologies and building exciting projects. Currently studying Computer Science at the University of Aix-Marseille, I enjoy coding and learning new tools and languages.
+Hi, I'm Maxime, a 19-year-old French student preparing for engineering school.
 
 ## About Me
 
-- 💻 Enthusiast of Linux (especially Arch Linux)
-- 🔧 Passionate about coding and creating efficient solutions
-- 🎵 Music lover, always discovering new sounds
+- 💻 Arch Linux user
+- 🔧 Passionate about mechanic
+- 🎵 Music lover
 
 ## Current Projects:
 
+- 🎶 Conception of a [**unreleased music player**]. Currently private and still WIP.
 - 🛠️ Creating a [**personal website**](https://github.com/maxime-mp4/maximes-website) to showcase my work and projects.
 - 📂 Working on my [**WM customization**](https://github.com/maxime-mp4/dotfiles) to optimize my development environment.
 
