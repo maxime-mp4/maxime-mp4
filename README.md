@@ -1,6 +1,7 @@
 # Welcome to my GitHub profile
 
 Hi, I'm Maxime, a 19-year-old French student preparing for engineering school.
+Consider visit [my website](https://yandhi.me) for more information.
 
 ## About Me
 
