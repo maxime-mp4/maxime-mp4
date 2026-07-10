@@ -1,30 +1,75 @@
-# Welcome to my GitHub profile
+<div align="center">
 
-Hi, I'm Maxime, a 19-year-old French student preparing for engineering school.
-Consider visit [my website](https://yandhi.me) for more information.
 
-## About Me
+# %%%* hELLO // 07734 ~%%%
+PLEASE HELP ME MAKING MESSY WEBSITES; MINE IS TOO CLEAN.
 
-- 💻 Arch Linux user
-- 🔧 Passionate about mechanic
-- 🎵 Music lover
+---
 
-## Current Projects:
 
-- 🎶 Conception of a [**unreleased music player**]. Currently private and still WIP.
-- 🛠️ Creating a [**personal website**](https://github.com/maxime-mp4/maximes-website) to showcase my work and projects.
-- 📂 Working on my [**WM customization**](https://github.com/maxime-mp4/dotfiles) to optimize my development environment.
+**[ ! ] COUNTRY: FRANCE**
 
-## Technologies
 
-[![C++](https://img.shields.io/badge/-C%2B%2B-%2300599C?style=flat&logo=cplusplus&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![HTML](https://img.shields.io/badge/-HTML-%23E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/-CSS-%231572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231572B6?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
-[![Vue.js](https://img.shields.io/badge/-Vue.js-%234FC08D?style=flat&logo=vue.js&logoColor=white)](https://vuejs.org/)
-[![Git](https://img.shields.io/badge/-Git-%23F14E32?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-[![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-%2A5E5F5F?style=flat&logo=arch-linux&logoColor=white)](https://archlinux.org/)
+---
+
+
+### ~/ PLEASE READ ME .MD ~%%%
+
+`> cat /home/maxime/ME.txt`
+
+HELLO ! I'm Maxime. 20-year-old;; 
+
+I Love ARCH LINUX and i HATE VIM. NOTHING works as always BUT **IT IS FINE.** !!*
+
+
+---
+
+
+### ~/ MY SHINY & BROKEN PROJECTS ~%%%
+
+| PROJECT | TECH | STATUS |
+| :---  | :--- | :--- |
+| **Linear Algebra Lib** | `Rust` | [WORKING...] |
+| **Portfolio** | `Vue/Tailwind` | [WORKING ALWAYS...] |
+| **Yepi** | `Node.js` | [RIP] |
+| **Unnamed** | `Electron` | [RIP] |
+
+
+---
+
+
+### /* LINKS & LIFE ~%%%
+
+* [clicK HERE TO SEE MY DOTFILES. EXPIRED.~*](https://github.com/07734/dotfiles)
+
+* [MY_JAPANESE_STUDY_LOG_~*](https://hello.is-a.dev/blog/learning-japanese)
+
+
+---
+
+
+> "Heaven means to be one with God."
+
+> "There are only two kinds of languages: the ones people complain about and the ones nobody uses."
+
+> "Simplicity is the ultimate sophistication."
+
+
+---
+
+---
+
+
+**[ ! ] CONTACT ME IN CASE [ ! ]**
+
+`[ 07734.IS-A.DEV // GITHUB // DISCORD ]`
+
+
+<p align="center">
+
+  <img src="https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8688491/hiE5vMs.gif?quality=90&strip=all&crop=0,0,100,100" width="100" /> 
+
+</p>
+
+
+</div>
