@@ -21,6 +21,7 @@ HELLO ! I'm Maxime. 20-year-old;;
 
 I Love ARCH LINUX and i HATE VIM. NOTHING works as always BUT **IT IS FINE.** !!*
 
+\>\>\>\>\>\>\>\>\> MIGRATING TO NIX.OS
 
 ---
 
