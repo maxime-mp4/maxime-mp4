@@ -41,7 +41,7 @@ I Love ARCH LINUX and i HATE VIM. NOTHING works as always BUT **IT IS FINE.** !!
 
 ### /* LINKS & LIFE ~%%%
 
-* [clicK HERE TO SEE MY [ NIX OS ] CONFIG. .~*](https://github.com/07734/nixos-config)
+* [clicK HERE TO SEE MY [ NIX OS ] CONFIG. .~*](https://github.com/07734maxime/nixos-config)
 
 * [MY_JAPANESE_STUDY_LOG_~*](https://hello.is-a.dev/blog/learning-japanese)
 
